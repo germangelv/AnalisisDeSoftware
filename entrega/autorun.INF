@@ -1,0 +1,10 @@
+[autorun]
+icon=extras\ico.ico
+open=autorun.exe
+shell\readnl = &Instalar Java
+shell\readnl\command = extras\java.bat
+shell\leeme = &Instalar NUM3
+shell\leeme\command = instalar.exe
+shell\leeme = &Ejecutar NUM3
+shell\leeme\command = extras\NUM3_portable.exe
+label=NUM3

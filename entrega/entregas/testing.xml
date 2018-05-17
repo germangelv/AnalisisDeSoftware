@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\German\Desktop\BORRAR\TestingTool(SRC+JAR)\TestingTool.jar</jar>
+  <outfile>C:\Users\German\Desktop\BORRAR\TestingTool.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\German\Desktop\BORRAR\TestingTool(SRC+JAR)\icono.ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.7.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.4.0.0</fileVersion>
+    <txtFileVersion>1.4.0.0</txtFileVersion>
+    <fileDescription>Herramienta de Testing</fileDescription>
+    <copyright>Grupo 14 ADS 2016</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>Herramienta de Testing</productName>
+    <companyName>Grupo 14 ADS 2016</companyName>
+    <internalName>TestingTool</internalName>
+    <originalFilename>TestingTool.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>SPANISH_MEXICO</language>
+  </versionInfo>
+</launch4jConfig>
